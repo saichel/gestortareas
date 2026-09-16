@@ -32,7 +32,7 @@ public class App {
 
     private static void mostrarMenu() {
         System.out.println();
-        System.out.println("===== GESTOR DE TAREAS =====");
+        System.out.println("GESTOR DE TAREAS");
         System.out.println("1. Añadir tarea");
         System.out.println("2. Mostrar tareas");
         System.out.println("3. Completar tarea");
